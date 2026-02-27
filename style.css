@@ -14,5 +14,10 @@ body {
 
 .branco {
   background-color: white;
-  height: 50vh;
+  height: 70vh;
+}
+
+.verde2 {
+  background-color: #8ACE00;
+  height: 70vh;
 }
